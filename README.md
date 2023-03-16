@@ -5,6 +5,6 @@
 HTML5 CSS3 SCSS
 ````
 
+[Online Preview](https://skyline-gtr.netlify.app)
 
-<a href="https://skyline-gtr.netlify.app">Online Preview</a>
 <img  src="images/ekran.gif"/>
